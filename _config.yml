@@ -1,20 +1,31 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: Roque Pinel
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://pinel.cc" # the base hostname & protocol for your site
-twitter_username: repinel
-github_username:  repinel
+title:       Roque Pinel
+description: "Developer - Foodie - Traveler"
+baseurl:     "" # the subpath of your site, e.g. /blog
+url:         "http://pinel.cc"
+
+# Google analytics
+google_analytics: "UA-21761105-1"
+
+# Social Media settings
+github_username:   repinel
+github_user_id:    1685896
+linkedin_username: roquepinel
+twitter_username:  repinel
 
 # Build settings
-markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jemoji
+
+markdown:  kramdown
+permalink:        "/blog/:year/:month/:day/:title"
+blog_assets_path: "/assets"
+paginate_path:    "/blog/page/:num"
+paginate:         10
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - script
