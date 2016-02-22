@@ -6,3 +6,6 @@ _site
 # Development
 .ruby-gemset
 .ruby-version
+.DS_Store
+vendor
+tmp
