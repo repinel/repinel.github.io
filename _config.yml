@@ -18,11 +18,14 @@ gems:
   - jekyll-paginate
   - jemoji
 
-markdown:  kramdown
+markdown:         kramdown
 permalink:        "/blog/:year/:month/:day/:title"
 blog_assets_path: "/blog/assets"
 paginate_path:    "/blog/page/:num"
 paginate:         10
+
+sass:
+  style: compressed
 
 exclude:
   - Gemfile
