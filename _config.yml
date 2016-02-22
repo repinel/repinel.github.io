@@ -2,7 +2,7 @@
 title:       Roque Pinel
 description: "Developer - Foodie - Traveler"
 baseurl:     "" # the subpath of your site, e.g. /blog
-url:         "http://pinel.cc"
+url:         "http://www.pinel.cc"
 
 # Google analytics
 google_analytics: "UA-21761105-1"
