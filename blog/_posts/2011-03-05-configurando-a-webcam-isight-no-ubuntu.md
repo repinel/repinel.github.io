@@ -38,6 +38,6 @@ aptitude -y install cheese
 
 Lembrando que ao atualizar a versão atual do Kernel, o *firmware* deve ser novamente instalado.
 
-[isight]: "http://en.wikipedia.org/wiki/ISight"
-[kernel]: "http://www.kernel.org"
-[cheese]: "http://projects.gnome.org/cheese"
+[isight]: http://en.wikipedia.org/wiki/ISight
+[kernel]: http://www.kernel.org
+[cheese]: http://projects.gnome.org/cheese

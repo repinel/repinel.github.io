@@ -50,7 +50,7 @@ Clicando com o botão direito do mouse sobre o ícone é possível escolher qual
 
 Um artigo mais completo sobre as diferentes configurações do LIRC pode ser achado no [Viva o Linux][lirc-viva-o-linux]. Qualquer dúvida sobre a utilização do ir-switcher, não deixem de entrar em contato.
 
-[lirc]:              "http://www.lirc.org"
-[my-lirc-config]:    "https://gist.github.com/repinel/fe58ca5216af90eaebf8"
-[ir-switcher]:       "https://github.com/repinel/ir-switcher"
-[lirc-viva-o-linux]: "http://www.vivaolinux.com.br/artigo/LIRC-Linux-Infrared-Remote-Control"
+[lirc]:              http://www.lirc.org
+[my-lirc-config]:    https://gist.github.com/repinel/fe58ca5216af90eaebf8
+[ir-switcher]:       https://github.com/repinel/ir-switcher
+[lirc-viva-o-linux]: http://www.vivaolinux.com.br/artigo/LIRC-Linux-Infrared-Remote-Control

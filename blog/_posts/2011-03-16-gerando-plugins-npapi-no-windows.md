@@ -69,10 +69,10 @@ Para testar o plugin, basta abrir o arquivo `nixysa-read-only\examples\complex\t
 
 Recomendo também verificar os [vídeos do Firebreath][firebreath-videos], a documentação é bem mais completa que o Nixysa.
 
-[npapi]:             "http://en.wikipedia.org/wiki/NPAPI"
-[nixysa]:            "http://nixysa.googlecode.com"
-[firebreath]:        "http://firebreath.googlecode.com"
-[win32-svn]:         "http://win32svn.sourceforge.net"
-[py-win32]:          "http://sourceforge.net/projects/pywin32"
-[firebreath-videos]: "http://www.firebreath.org/display/documentation/Video+Tutorials"
+[npapi]:             http://en.wikipedia.org/wiki/NPAPI
+[nixysa]:            http://nixysa.googlecode.com
+[firebreath]:        http://firebreath.googlecode.com
+[win32-svn]:         http://win32svn.sourceforge.net
+[py-win32]:          http://sourceforge.net/projects/pywin32
+[firebreath-videos]: http://www.firebreath.org/display/documentation/Video+Tutorials
 

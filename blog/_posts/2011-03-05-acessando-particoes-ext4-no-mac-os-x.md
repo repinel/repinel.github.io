@@ -31,6 +31,6 @@ sudo mount -t fuse-ext4 /dev/disk0s2 /tmp/discoExt4
 
 O mesmo pode ser automatizado criando-se um *script* com os comandos e executando-o ao iniciar o sistema.
 
-[fuse-ext2]:    "https://github.com/alperakcan/fuse-ext2"
-[ext4fuse]:     "https://github.com/gerard/ext4fuse"
-[ext4fuse-bin]: "https://github.com/downloads/gerard/ext4fuse/ext4fuse-24810919"
+[fuse-ext2]:    https://github.com/alperakcan/fuse-ext2
+[ext4fuse]:     https://github.com/gerard/ext4fuse
+[ext4fuse-bin]: https://github.com/downloads/gerard/ext4fuse/ext4fuse-24810919

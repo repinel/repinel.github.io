@@ -18,13 +18,13 @@ Fico feliz em ver que o Ubuntu tem satisfeito tanto os usuários iniciantes como
 
 > I think that Ubuntu has done a really, really good job making Linux available to a wider and different audience.
 
-[slackware]:                "http://www.slackware.com"
-[lfs]:                      "http://www.linuxfromscratch.org"
-[gentoo]:                   "http://www.gentoo.org"
-[ubuntu]:                   "http://www.ubuntu.com"
-[lfs-br]:                   "http://lfs-br.codigolivre.org.br"
-[ubuntu-minimal-cd]:        "https://help.ubuntu.com/community/Installation/MinimalCD"
-[ubuntu-minimal-desktop]:   "http://minimal-desktop.blogspot.com"
-[ubuntu-minimal-script]:    "https://github.com/AntonioPT/minimal-desktop-for-ubuntu/blob/e799996f02aba1947329cbd57ce343b3848a4431/script.sh"
-[linus-torvalds]:           "http://pt.wikipedia.org/wiki/Linus_Torvalds"
-[linus-torvalds-interview]: "http://www.omgubuntu.co.uk/2011/01/our-exclusive-interview-with-linus-torvalds-lca2011/"
+[slackware]:                http://www.slackware.com
+[lfs]:                      http://www.linuxfromscratch.org
+[gentoo]:                   http://www.gentoo.org
+[ubuntu]:                   http://www.ubuntu.com
+[lfs-br]:                   http://lfs-br.codigolivre.org.br
+[ubuntu-minimal-cd]:        https://help.ubuntu.com/community/Installation/MinimalCD
+[ubuntu-minimal-desktop]:   http://minimal-desktop.blogspot.com
+[ubuntu-minimal-script]:    https://github.com/AntonioPT/minimal-desktop-for-ubuntu/blob/e799996f02aba1947329cbd57ce343b3848a4431/script.sh
+[linus-torvalds]:           http://pt.wikipedia.org/wiki/Linus_Torvalds
+[linus-torvalds-interview]: http://www.omgubuntu.co.uk/2011/01/our-exclusive-interview-with-linus-torvalds-lca2011/

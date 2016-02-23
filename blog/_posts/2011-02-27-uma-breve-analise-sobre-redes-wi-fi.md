@@ -18,6 +18,6 @@ No eixo X, temos a disposição dos [canais de redes IEEE 802.11][wlan-channels]
 
 A análise dos canais disponíveis é apenas um dos pontos passiveis de melhoramento. Outros truques, como o posicionamento do roteador, podem ser verificado no [artigo da PC WORLD][pc-world-article].
 
-[wi-fi-analyzer]:   "https://market.android.com/details?id=com.farproc.wifi.analyzer"
-[wlan-channels]:    "http://en.wikipedia.org/wiki/List_of_WLAN_channels"
-[pc-world-article]: "http://pcworld.uol.com.br/dicas/2008/08/27/cinco-truques-para-melhorar-o-sinal-de-sua-rede-sem-fio"
+[wi-fi-analyzer]:   https://market.android.com/details?id=com.farproc.wifi.analyzer
+[wlan-channels]:    http://en.wikipedia.org/wiki/List_of_WLAN_channels
+[pc-world-article]: http://pcworld.uol.com.br/dicas/2008/08/27/cinco-truques-para-melhorar-o-sinal-de-sua-rede-sem-fio
