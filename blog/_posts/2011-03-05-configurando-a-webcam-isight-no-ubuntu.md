@@ -2,7 +2,7 @@
 layout: post
 title:  Configurando a webcam iSight no Ubuntu
 summary: Configurando a *webcam* do MacBook no Ubuntu.
-date:   2011-03-05 19:03:02 -0300
+date:   2011-03-05 19:03
 categories: linux mac
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  Gerando plugins NPAPI no Windows
 summary: Guia simplificado de como gerar plugins NPAPI, para *browsers* como Chrome e Firefox, no Windows.
-date:   2011-03-16 01:10:07 -0300
+date:   2011-03-16 01:10
 categories: web windows
 ---
 

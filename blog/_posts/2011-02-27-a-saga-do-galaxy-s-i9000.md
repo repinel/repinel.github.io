@@ -2,7 +2,7 @@
 layout: post
 title:  A saga do Galaxy S i9000
 summary: O dia em que meu Galaxy S i9000 virou um tijolo.
-date:   2011-02-27 03:16:35 -0300
+date:   2011-02-27 03:16
 categories: android
 ---
 

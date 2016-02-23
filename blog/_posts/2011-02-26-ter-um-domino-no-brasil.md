@@ -2,7 +2,7 @@
 layout: post
 title:  Ter um domíno no Brasil
 summary: Como o Registro.br expõe as informações das pessoas que tem domínios registrados no Brasil.
-date:   2011-02-26 19:49:53 -0300
+date:   2011-02-26 19:49
 categories: web
 ---
 

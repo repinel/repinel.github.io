@@ -2,7 +2,7 @@
 layout: post
 title:  Acessando partições Ext4 no Mac OS X
 summary: Acessando a partição Ext4 do Ubuntu no Mac OS X com o `ext4fuse`.
-date:   2011-03-05 20:40:13 -0300
+date:   2011-03-05 20:40
 categories: linux mac
 ---
 

@@ -2,13 +2,13 @@
 layout: post
 title:  Tirando o melhor do Ubuntu
 summary: Algumas sugestões de como deixar o Ubuntu mais limpo e leve.
-date:   2011-02-27 23:39:38 -0300
+date:   2011-02-27 23:39
 categories: linux
 ---
 
 Há alguns anos sou usuário dedicado de sistemas Linux. Começando pelo famoso [Slackware][slackware], passando pelo mal compreendido [Linux from Scratch (LFS)][lfs], o adorável [Gentoo][gentoo], até chegar no prático [Ubuntu][ubuntu].
 
-Todas essas distribuições me renderam bom conhecimento e algumas boas práticas. Sempre afirmo que se você deseja conhecer melhor como ambientes Linux funcionam, uma sugestão seria se dedicar por um tempo ao LFS. Inclusive temos uma boa comunidade aqui no Brasil, o [LFS-BR][lfs-br].
+Todas essas distribuições me renderam bom conhecimento e algumas boas práticas. Sempre afirmo que se você deseja conhecer melhor como ambientes Linux funcionam, uma sugestão seria se dedicar por um tempo ao LFS. Inclusive temos uma boa comunidade aqui no Brasil, o LFS-BR.
 
 Mas recentemente, por sugestão de um amigo, entrei em contato com a versão mínima do Ubuntu. O [Ubuntu Minimal][ubuntu-minimal-cd], como é conhecido pela comunidade, representa a base comum do sistema, sem os adicionais, como o gerenciador de janelas. Como vantagens dessa versão, temos a redução dos serviços instalados, assim como a remoção de componentes que acabariam nunca sendo usados pelo usuário.
 
@@ -22,7 +22,6 @@ Fico feliz em ver que o Ubuntu tem satisfeito tanto os usuários iniciantes como
 [lfs]:                      http://www.linuxfromscratch.org
 [gentoo]:                   http://www.gentoo.org
 [ubuntu]:                   http://www.ubuntu.com
-[lfs-br]:                   http://lfs-br.codigolivre.org.br
 [ubuntu-minimal-cd]:        https://help.ubuntu.com/community/Installation/MinimalCD
 [ubuntu-minimal-desktop]:   http://minimal-desktop.blogspot.com
 [ubuntu-minimal-script]:    https://github.com/AntonioPT/minimal-desktop-for-ubuntu/blob/e799996f02aba1947329cbd57ce343b3848a4431/script.sh

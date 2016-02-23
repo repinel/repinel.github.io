@@ -2,7 +2,7 @@
 layout: post
 title:  Configurando o Apple Remote Control no Ubuntu
 summary: Dicas de como configurar e tirar melhor proveito do Apple Remote Control em um MacBook com Ubuntu.
-date:   2011-03-05 19:56:10 -0300
+date:   2011-03-05 19:56
 categories: linux mac
 ---
 

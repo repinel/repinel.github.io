@@ -2,7 +2,7 @@
 layout: post
 title:  Instalando o Ubuntu Minimal no MacBook
 summary: Guia simplificado de como instalar o Ubuntu em um MacBook.
-date:   2011-03-04 16:51:08 -0300
+date:   2011-03-04 16:51
 categories: linux mac
 ---
 
