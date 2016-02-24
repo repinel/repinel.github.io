@@ -74,5 +74,5 @@ Recomendo também verificar os [vídeos do Firebreath][firebreath-videos], a doc
 [firebreath]:        http://firebreath.googlecode.com
 [win32-svn]:         http://win32svn.sourceforge.net
 [py-win32]:          http://sourceforge.net/projects/pywin32
-[firebreath-videos]: http://www.firebreath.org/display/documentation/Video+Tutorials
+[firebreath-videos]: https://github.com/firebreath/FireBreath
 
