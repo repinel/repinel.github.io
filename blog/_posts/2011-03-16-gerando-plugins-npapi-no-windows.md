@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  Gerando plugins NPAPI no Windows
-summary: Guia simplificado de como gerar plugins NPAPI, para *browsers* como Chrome e Firefox, no Windows.
-date:   2011-03-16 01:10
-categories: web windows
+layout:      post
+title:       Gerando plugins NPAPI no Windows
+description: Guia simplificado de como gerar plugins NPAPI, para *browsers* como Chrome e Firefox, no Windows.
+date:        2011-03-16 01:10
+categories:  web windows
 ---
 
 Muitas das extensões para Firefox e Chromium, que são limitadas pelo suporte da API, acabam recorrendo a plugins [NPAPI][npapi] para solucionar seus problemas. Plugins NPAPI são programas capazes de serem acessador via JavaScript, e podem ser escritos em linguagens como C++, que facilita em muito certos trabalhos.

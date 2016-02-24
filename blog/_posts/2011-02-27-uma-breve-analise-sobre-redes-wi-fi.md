@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  Uma breve análise sobre redes Wi-Fi
-summary: Algumas dicas para tirar melhor proveito de redes Wi-Fi.
-date:   2011-02-27 15:32
-categories: android network
+layout:      post
+title:       Uma breve análise sobre redes Wi-Fi
+description: Algumas dicas para tirar melhor proveito de redes Wi-Fi.
+date:        2011-02-27 15:32
+categories:  android network
 ---
 
 O aumento do número de residências com redes Wi-Fi tem se tornado cada vez mais nítido. Espero não ser o único a ficar surpreso ao verificar a lista de redes próximas a mim. Mas quais os malefícios dessa sobrecarga? O que fazer para melhorar o sinal da sua rede?

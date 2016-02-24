@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  Ter um domíno no Brasil
-summary: Como o Registro.br expõe as informações das pessoas que tem domínios registrados no Brasil.
-date:   2011-02-26 19:49
-categories: web
+layout:      post
+title:       Ter um domíno no Brasil
+description: Como o Registro.br expõe as informações das pessoas que tem domínios registrados no Brasil.
+date:        2011-02-26 19:49
+categories:  web
 ---
 
 Como brasileiro, primeiro pensei em criar um domínio *.br. Não é tarefa complicada, basta preencher alguns formulários e pronto.

@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  A saga do Galaxy S i9000
-summary: O dia em que meu Galaxy S i9000 virou um tijolo.
-date:   2011-02-27 03:16
-categories: android
+layout:      post
+title:       A saga do Galaxy S i9000
+description: O dia em que meu Galaxy S i9000 virou um tijolo.
+date:        2011-02-27 03:16
+categories:  android
 ---
 
 Recentemente adquiri um Galaxy S i9000, conhecido como a versão   internacional. Um aparelho notável, como tela de alta resolução, ótimo   processador e rodando o Android `2.1` Eclair.

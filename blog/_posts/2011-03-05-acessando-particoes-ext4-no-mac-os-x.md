@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  Acessando partições Ext4 no Mac OS X
-summary: Acessando a partição Ext4 do Ubuntu no Mac OS X com o `ext4fuse`.
-date:   2011-03-05 20:40
-categories: linux mac
+layout:      post
+title:       Acessando partições Ext4 no Mac OS X
+description: Acessando a partição Ext4 do Ubuntu no Mac OS X com o `ext4fuse`.
+date:        2011-03-05 20:40
+categories:  linux mac
 ---
 
 Há algum tempo estive procurando por uma solução eficiente para acessar os dados da partição Ext4 do Ubuntu no Mac OS X (veja [Instalando o Ubuntu Minimal no MacBook]({% post_url 2011-03-04-instalando-o-ubuntu-minimal-no-macbook %})). O objetivo era encontrar algo semelhante ao projeto [fuse-ext2][fuse-ext2], que além de facilitar a configuração do ambiente, permite montar automaticamente tanto HD internos e externos.

@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  Instalando o Ubuntu Minimal no MacBook
-summary: Guia simplificado de como instalar o Ubuntu em um MacBook.
-date:   2011-03-04 16:51
-categories: linux mac
+layout:      post
+title:       Instalando o Ubuntu Minimal no MacBook
+description: Guia simplificado de como instalar o Ubuntu em um MacBook.
+date:        2011-03-04 16:51
+categories:  linux mac
 ---
 
 As máquinas da Apple não são apenas conhecidas pelo design clean e arrojado, elas também possuem ótima arquitetura computacional. Seus portáteis, como os MacBooks, são reconhecidos por serem mais leves que a maioria da categoria, o que justifica o grande sucesso.

@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  Configurando o Apple Remote Control no Ubuntu
-summary: Dicas de como configurar e tirar melhor proveito do Apple Remote Control em um MacBook com Ubuntu.
-date:   2011-03-05 19:56
-categories: linux mac
+layout:      post
+title:       Configurando o Apple Remote Control no Ubuntu
+description: Dicas de como configurar e tirar melhor proveito do Apple Remote Control em um MacBook com Ubuntu.
+date:        2011-03-05 19:56
+categories:  linux mac
 ---
 
 Mais um artigo da série [Instalando o Ubuntu Minimal no MacBook]({% post_url 2011-03-04-instalando-o-ubuntu-minimal-no-macbook %}). Agora apresentando os passos de configuração do controle remoto infravermelho do MacBook no Ubuntu.

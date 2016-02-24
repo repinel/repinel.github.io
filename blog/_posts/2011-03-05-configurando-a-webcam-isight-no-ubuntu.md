@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  Configurando a webcam iSight no Ubuntu
-summary: Configurando a *webcam* do MacBook no Ubuntu.
-date:   2011-03-05 19:03
-categories: linux mac
+layout:      post
+title:       Configurando a webcam iSight no Ubuntu
+description: Configurando a *webcam* do MacBook no Ubuntu.
+date:        2011-03-05 19:03
+categories:  linux mac
 ---
 
 Continuando o artigo [Instalando o Ubuntu Minimal no MacBook]({% post_url 2011-03-04-instalando-o-ubuntu-minimal-no-macbook %}), descreverei como configurar a *webcam* [iSight][isight] do MacBook no Ubuntu.

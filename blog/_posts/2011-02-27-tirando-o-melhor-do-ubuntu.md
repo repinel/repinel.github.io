@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  Tirando o melhor do Ubuntu
-summary: Algumas sugestões de como deixar o Ubuntu mais limpo e leve.
-date:   2011-02-27 23:39
-categories: linux
+layout:      post
+title:       Tirando o melhor do Ubuntu
+description: Algumas sugestões de como deixar o Ubuntu mais limpo e leve.
+date:        2011-02-27 23:39
+categories:  linux
 ---
 
 Há alguns anos sou usuário dedicado de sistemas Linux. Começando pelo famoso [Slackware][slackware], passando pelo mal compreendido [Linux from Scratch (LFS)][lfs], o adorável [Gentoo][gentoo], até chegar no prático [Ubuntu][ubuntu].
