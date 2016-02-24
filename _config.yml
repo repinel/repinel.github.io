@@ -28,7 +28,9 @@ sass:
   style: compressed
 
 exclude:
+  - CNAME
   - Gemfile
   - Gemfile.lock
   - Rakefile
+  - README.md
   - vendor
