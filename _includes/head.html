@@ -3,13 +3,30 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  {% assign page_url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
+  {% capture description %}{% if page.description %}{{ page.description | markdownify | strip_html | strip_newlines }}{% else %}{{ site.title }}: {{ site.description }}{% endif %}{% endcapture %}
+
   <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{% if page.description %}{{ page.description | markdownify | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{{ description| truncate: 160 }}">
   {% if page.categories %}<meta name="keywords" content="{{ page.categories | join: ', ' }}">{% endif %}
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{ page_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  {% if site.twitter_username %}
+    <meta name="twitter:card" content="summary">
+    {% if site.github_user_id %}<meta name="twitter:image" content="https://avatars3.githubusercontent.com/u/{{ site.github_user_id }}?v=3&s=150">{% endif %}
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{{ description }}">
+    <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+  {% endif %}
+
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:url" content="{{ page_url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
 
   <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.url }}">
   <link rel="shortcut icon" href="{{ "/favicon.png" | prepend: site.url }}">
