@@ -5,8 +5,8 @@ task :test do
     abort 'ERROR: Failed to build _site with Jekyll.'
   end
 
-  require 'html/proofer'
-  HTML::Proofer.new('./_site', {
+  require 'html-proofer'
+  HTMLProofer.check_directory('./_site', {
     typhoeus: {
       headers: { 'User-Agent' => 'Mozilla/5.0 (compatible; My New User-Agent)' }
     },
