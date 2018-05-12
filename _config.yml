@@ -14,7 +14,7 @@ linkedin_username: roquepinel
 twitter_username:  repinel
 
 # Build settings
-gems:
+plugins:
   - jekyll-paginate
   - jemoji
 
