@@ -73,6 +73,6 @@ Recomendo também verificar os [vídeos do Firebreath][firebreath-videos], a doc
 [nixysa]:            https://code.google.com/archive/p/nixysa/
 [firebreath]:        https://code.google.com/archive/p/firebreath/
 [win32-svn]:         https://sourceforge.net/projects/win32svn/
-[py-win32]:          https://sourceforge.net/projects/pywin32
+[py-win32]:          https://sourceforge.net/projects/pywin32/
 [firebreath-videos]: https://github.com/firebreath/FireBreath
 

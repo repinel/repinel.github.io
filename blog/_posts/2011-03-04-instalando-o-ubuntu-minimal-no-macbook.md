@@ -44,7 +44,7 @@ Ao iniciar o Ubuntu, ele consistirá apenas do terminal, sem gerenciador de jane
 [kernel]:                   https://www.kernel.org
 [boot-camp]:                https://support.apple.com/boot-camp
 [refit]:                    http://refit.sourceforge.net
-[refit-dmg]:                http://sourceforge.net/projects/refit/files/rEFIt
+[refit-dmg]:                https://sourceforge.net/projects/refit/files/rEFIt/
 [ubuntu-minimal-desktop]:   https://minimal-desktop.blogspot.com
 [ubuntu-minimal-script]:    https://github.com/AntonioPT/minimal-desktop-for-ubuntu/blob/e799996f02aba1947329cbd57ce343b3848a4431/script.sh
 [my-ubuntu-minimal-script]: https://gist.github.com/repinel/8f15e5acb4fe8a08ecdd
