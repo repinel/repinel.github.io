@@ -7,10 +7,11 @@ task :test do
 
   require 'html-proofer'
   HTMLProofer.check_directory('./_site', {
+    assume_extension: true,
     typhoeus: {
       headers: { 'User-Agent' => 'Mozilla/5.0 (compatible; My New User-Agent)' }
     },
-    href_ignore: [ /www\.linkedin\.com/ ],
+    url_ignore: [ /www\.linkedin\.com/ ],
     external_only: true,
     check_favicon: true,
     check_html: true
