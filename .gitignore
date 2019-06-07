@@ -4,8 +4,6 @@ _site
 .jekyll-metadata
 
 # Development
-.ruby-gemset
-.ruby-version
 .DS_Store
 vendor
 tmp
