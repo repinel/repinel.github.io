@@ -37,7 +37,7 @@ O primeiro bloco é ativado quando o `daemon irexec` está executando, já o seg
 No meu caso, eu sempre ativo o `irexec` para funções multimídias e o `irxevent` para apresentações. Contudo, como ativar e desativar os *daemons* não era uma tarefa prática, resolvi criar o um GNOME Applet específico para trabalhar com o LIRC, o [ir-switcher][ir-switcher]. Para instalá-lo, basta executar os comandos como super usuário:
 
 ~~~ sh
-wget -O ir_switcher.deb http://ir-switcher.googlecode.com/files/ir_switcher_0.1_all.deb
+wget -O ir_switcher.deb https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/ir-switcher/ir_switcher_0.1_all.deb
 dpkg -i ir_switcher.deb
 rm ir_switcher.deb
 ~~~
@@ -53,4 +53,4 @@ Um artigo mais completo sobre as diferentes configurações do LIRC pode ser ach
 [lirc]:              http://www.lirc.org
 [my-lirc-config]:    https://gist.github.com/repinel/fe58ca5216af90eaebf8
 [ir-switcher]:       https://github.com/repinel/ir-switcher
-[lirc-viva-o-linux]: http://www.vivaolinux.com.br/artigo/LIRC-Linux-Infrared-Remote-Control
+[lirc-viva-o-linux]: https://www.vivaolinux.com.br/artigo/LIRC-Linux-Infrared-Remote-Control

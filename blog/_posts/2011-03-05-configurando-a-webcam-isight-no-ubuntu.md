@@ -34,10 +34,10 @@ Tendo executado esses comandos o *firmware* da webcam já deve estar disponível
 
 ~~~ sh
 aptitude -y install cheese
-~~~ 
+~~~
 
 Lembrando que ao atualizar a versão atual do Kernel, o *firmware* deve ser novamente instalado.
 
-[isight]: http://en.wikipedia.org/wiki/ISight
-[kernel]: http://www.kernel.org
-[cheese]: http://projects.gnome.org/cheese
+[isight]: https://en.wikipedia.org/wiki/ISight
+[kernel]: https://www.kernel.org
+[cheese]: https://wiki.gnome.org/Apps/Cheese

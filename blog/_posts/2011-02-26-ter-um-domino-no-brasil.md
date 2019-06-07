@@ -14,5 +14,5 @@ Isso mesmo, se você registra um domínio como pessoa física, seus dados ficara
 
 Realmente uma pena. Vejo essa situação como um desestímulo a todos que ainda pensam em ter um domínio *.br como pessoa física.
 
-[registro-br]: http://www.registro.br
-[whois]:       http://pt.wikipedia.org/wiki/WHOIS
+[registro-br]: https://www.registro.br
+[whois]:       https://pt.wikipedia.org/wiki/WHOIS

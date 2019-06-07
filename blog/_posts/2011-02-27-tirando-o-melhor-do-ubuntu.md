@@ -20,10 +20,10 @@ Fico feliz em ver que o Ubuntu tem satisfeito tanto os usuários iniciantes como
 
 [slackware]:                http://www.slackware.com
 [lfs]:                      http://www.linuxfromscratch.org
-[gentoo]:                   http://www.gentoo.org
-[ubuntu]:                   http://www.ubuntu.com
+[gentoo]:                   https://www.gentoo.org
+[ubuntu]:                   https://www.ubuntu.com
 [ubuntu-minimal-cd]:        https://help.ubuntu.com/community/Installation/MinimalCD
-[ubuntu-minimal-desktop]:   http://minimal-desktop.blogspot.com
+[ubuntu-minimal-desktop]:   https://minimal-desktop.blogspot.com
 [ubuntu-minimal-script]:    https://github.com/AntonioPT/minimal-desktop-for-ubuntu/blob/e799996f02aba1947329cbd57ce343b3848a4431/script.sh
-[linus-torvalds]:           http://pt.wikipedia.org/wiki/Linus_Torvalds
-[linus-torvalds-interview]: http://www.omgubuntu.co.uk/2011/01/our-exclusive-interview-with-linus-torvalds-lca2011/
+[linus-torvalds]:           https://pt.wikipedia.org/wiki/Linus_Torvalds
+[linus-torvalds-interview]: https://www.omgubuntu.co.uk/2011/01/our-exclusive-interview-with-linus-torvalds-lca2011/

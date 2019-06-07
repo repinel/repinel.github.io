@@ -19,4 +19,4 @@ No eixo X, temos a disposição dos [canais de redes IEEE 802.11][wlan-channels]
 A análise dos canais disponíveis é apenas um dos pontos passiveis de melhoramento. Outros truques, como o posicionamento do roteador, também podem ajudar.
 
 [wi-fi-analyzer]:   https://market.android.com/details?id=com.farproc.wifi.analyzer
-[wlan-channels]:    http://en.wikipedia.org/wiki/List_of_WLAN_channels
+[wlan-channels]:    https://en.wikipedia.org/wiki/List_of_WLAN_channels

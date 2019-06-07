@@ -40,8 +40,8 @@ Descobri da pior maneira. Já não era mais possível adquirir acesso `root` atr
 
 Atualmente, estou satisfeito com o estado do aparelho, mas não descarto a possibilidade de no futuro voltar a testar algum outro *mod*, afinal o [CyanogenMod][cyanogen-mod] ainda não foi lançado oficialmente para o i9000. Medo de *brick*? Não, já sei como utilizar os resistores :smiley:
 
-[skype]:           http://www.skype.com
+[skype]:           https://www.skype.com
 [rom-manager]:     https://market.android.com/details?id=com.koushikdutta.rommanager
-[z4-root]:         http://forum.xda-developers.com/showthread.php?t=833953
-[super-one-click]: http://forum.xda-developers.com/showthread.php?t=803682
+[z4-root]:         https://forum.xda-developers.com/showthread.php?t=833953
+[super-one-click]: https://forum.xda-developers.com/showthread.php?t=803682
 [cyanogen-mod]:    https://en.wikipedia.org/wiki/CyanogenMod

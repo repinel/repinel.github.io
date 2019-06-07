@@ -32,7 +32,7 @@ Abra o Prompt de Comando, pressione `Win+E` e digite `cmd`. Digite os seguintes 
 cd \
 mkdir Sources
 cd Soruces
-svn checkout http://nixysa.googlecode.com/svn/trunk/ nixysa-read-only
+git clone https://github.com/google/nixysa.git nixysa-read-only
 ~~~
 
 Descrição dos comandos por linha:
@@ -69,10 +69,10 @@ Para testar o plugin, basta abrir o arquivo `nixysa-read-only\examples\complex\t
 
 Recomendo também verificar os [vídeos do Firebreath][firebreath-videos], a documentação é bem mais completa que o Nixysa.
 
-[npapi]:             http://en.wikipedia.org/wiki/NPAPI
+[npapi]:             https://en.wikipedia.org/wiki/NPAPI
 [nixysa]:            https://code.google.com/archive/p/nixysa/
 [firebreath]:        https://code.google.com/archive/p/firebreath/
-[win32-svn]:         http://win32svn.sourceforge.net
-[py-win32]:          http://sourceforge.net/projects/pywin32
+[win32-svn]:         https://sourceforge.net/projects/win32svn/
+[py-win32]:          https://sourceforge.net/projects/pywin32
 [firebreath-videos]: https://github.com/firebreath/FireBreath
 
