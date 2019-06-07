@@ -6,12 +6,12 @@ date:        2016-04-25 23:00
 categories:  rails ruby
 ---
 
-Ruby on Rails applications can be easily tested using fixtures to load the initial data. Each fixture filename would normally match the model name, and any exception to that rule would use the [`set_fixture_class`](https://api.rubyonrails.org/v5.2.3/classes/ActiveRecord/TestFixtures/ClassMethods.html#method-i-set_fixture_class) method to map the
+Ruby on Rails applications can be easily tested using fixtures to load the initial data. Each fixture filename would normally match the model name, and any exception to that rule would use the [`set_fixture_class`][set_fixture_class] method to map the
 fixture and the model.
 
 The `set_fixture_class` solution works fine for testings, but it fails when seeding databases with `rails db:fixtures:load` (a.k.a `rake db:fixtures:load`). The mapping created by the method is only available to tests because it is defined directly into the tests Ruby code. Therefore the `db:fixtures:load` task cannot use it to load the fixtures.
 
-A solution has recently been [introduced to the Rails 5](https://github.com/rails/rails/pull/20574) and will allow the mapping to be done from the fixture file itself. The following case loads the `User` model from the `accounts` table:
+A solution has recently been [introduced to the Rails 5][rails_issue_20574] and will allow the mapping to be done from the fixture file itself. The following case loads the `User` model from the `accounts` table:
 
 ~~~ruby
 # schema.rb
@@ -72,3 +72,6 @@ admin_role:
 ~~~
 
 Back to the tests, the `set_fixture_class` method will overwrite any `model_class` setting in fixtures for a more refined control.
+
+[set_fixture_class]: https://api.rubyonrails.org/v5.2.3/classes/ActiveRecord/TestFixtures/ClassMethods.html#method-i-set_fixture_class
+[rails_issue_20574]: https://github.com/rails/rails/pull/20574

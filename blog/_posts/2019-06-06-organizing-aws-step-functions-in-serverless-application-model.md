@@ -8,8 +8,9 @@ date:        2019-06-06 22:10
 categories:  aws cloudformation
 ---
 
-When defining [AWS Step Function](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-stepfunctions-statemachine.html) in [AWS Serverless Application Model (SAM)](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-template-basics.html),
-it's common to have a template like:
+When defining [AWS Step Function][aws-step-functions] in
+[AWS Serverless Application Model (SAM)][aws-sam], it's common to have a
+template like:
 
 ```yaml
 # sam.yaml
@@ -38,9 +39,8 @@ MyStepFunctionsStateMachine:
 
 The JSON provided to `DefinitionString` inline can easily get long and make it
 harder to maintain the CloudFormation template. Thankfully, as described in
-[this GitHub issue](https://github.com/awslabs/serverless-application-model/issues/531),
-it's possible to use the macro `AWS::Include` to include an external template
-file as the definition of Step Functions.
+[this GitHub issue][sam-issue-531], it's possible to use the macro `AWS::Include`
+to include an external template file as the definition of Step Functions.
 
 ```yaml
 # sam.yaml
@@ -81,3 +81,7 @@ DefinitionString:
 Please note that the template file `state-functions-definition.yaml` would have
 to be copied to the S3 bucket refered by `BucketName` in the `sam.yaml` pior to
 creating/updating the CloudFormation stack.
+
+[aws-step-functions]: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-stepfunctions-statemachine.html
+[aws-sam]: https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-template-basics.html
+[sam-issue-531]: https://github.com/awslabs/serverless-application-model/issues/531
