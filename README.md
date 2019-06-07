@@ -1,4 +1,4 @@
-Go to [pinel.cc](http://www.pinel.cc) and check this content live.
+Go to [pinel.cc](https://www.pinel.cc) and check this content live.
 
 Found an error? Please open an issue or submit a pull request :smile:
 

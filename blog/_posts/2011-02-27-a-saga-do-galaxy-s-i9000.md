@@ -44,4 +44,4 @@ Atualmente, estou satisfeito com o estado do aparelho, mas não descarto a possi
 [rom-manager]:     https://market.android.com/details?id=com.koushikdutta.rommanager
 [z4-root]:         http://forum.xda-developers.com/showthread.php?t=833953
 [super-one-click]: http://forum.xda-developers.com/showthread.php?t=803682
-[cyanogen-mod]:    http://www.cyanogenmod.com
+[cyanogen-mod]:    https://en.wikipedia.org/wiki/CyanogenMod
