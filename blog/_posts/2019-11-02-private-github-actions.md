@@ -9,7 +9,7 @@ date:        2019-11-02 13:03
 categories:  github actions workflow private
 ---
 
-**Updated on 06/18/2020:** `actions/checkout@v2` can now handle private repositories. [See the updated solution](#updated-on-06-18-2020).
+**Updated on 06/18/2020:** `actions/checkout@v2` can now handle private repositories. [See the updated solution](#updated-on-06182020).
 
 [GitHub Actions][github-actions] are awesome. The ability of build workflows
 nicely coupled to source code and backed by cloud computing is truly
