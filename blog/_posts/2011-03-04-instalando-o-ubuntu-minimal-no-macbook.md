@@ -38,7 +38,7 @@ Seguindo esses passos, Ubuntu deve ser reconhecido pelo rEFit e essa tela aparec
 
 ![Boot MacOS and Linux]({{ site.blog_assets_path }}/boot-macos-linux.png)
 
-Ao iniciar o Ubuntu, ele consistirá apenas do terminal, sem gerenciador de janelas. Nesse ponto, volto a sugerir o [*script*][ubuntu-minimal-script] do grupo [Minimal Desktop for Ubuntu][ubuntu-minimal-desktop]. As configurações especiais para o MacBook serão abordadas em posts separados, devido ao aumento da complexidade. Contudo, deixo meu [*scrip*][my-ubuntu-minimal-script] disponível, visto que ele já possui algumas indicações interessantes.
+Ao iniciar o Ubuntu, ele consistirá apenas do terminal, sem gerenciador de janelas. Nesse ponto, volto a sugerir o [*script*][ubuntu-minimal-script] do grupo [Minimal Desktop for Ubuntu][ubuntu-minimal-desktop]. As configurações especiais para o MacBook serão abordadas em posts separados, devido ao aumento da complexidade. Contudo, deixo meu [*script*][my-ubuntu-minimal-script] disponível, visto que ele já possui algumas indicações interessantes.
 
 [ubuntu-minimal-cd]:        https://help.ubuntu.com/community/Installation/MinimalCD
 [kernel]:                   https://www.kernel.org
