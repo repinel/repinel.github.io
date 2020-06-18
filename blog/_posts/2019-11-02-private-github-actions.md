@@ -9,6 +9,8 @@ date:        2019-11-02 13:03
 categories:  github actions workflow private
 ---
 
+**Updated on 06/18/2020:** `actions/checkout@v2` can now handle private repositories. [See the updated solution](#updated-on-06-18-2020).
+
 [GitHub Actions][github-actions] are awesome. The ability of build workflows
 nicely coupled to source code and backed by cloud computing is truly
 awesome. No wonder the feature will be moving to general availability on
@@ -83,6 +85,30 @@ cloned to the provided path and the next step is able to use the
 the workflow's repository settings. `secrets.GIT_TOKEN` is the GitHub's personal
 access token with access to `my-organization/awesome-action` and
 `secrets.GIT_USER` its owner.
+
+## Updated on 06/18/2020
+You can use `actions/checkout@v2` to checkout private repositories as first attempted above. The cleaner solution would be:
+```yaml
+name: My workflow
+on: push
+jobs:
+  do-something:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Checkout my-organization/awesome-action
+        uses: actions/checkout@v2
+        with:
+          repository: my-organization/awesome-action
+          ref: refs/heads/master
+          # GitHub's personal access token with access to `my-organization/awesome-action`
+          token: ${{ secrets.GIT_TOKEN }}
+          persist-credentials: false
+          path: ./.github/actions/awesome-action
+      - uses: ./.github/actions/awesome-action
+      - name: Last step
+        run: ...
+```
 
 [github-actions]: https://github.com/features/actions
 [actions-checkout-issue]: https://github.com/actions/checkout/issues/57
